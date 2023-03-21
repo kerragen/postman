@@ -1,12 +1,13 @@
 # postman
 
 # Регистрация
-![image](https://user-images.githubusercontent.com/115839094/226756122-b43cdd83-b6e6-4eb7-aa35-13b715199835.png)
+![image](https://user-images.githubusercontent.com/115839094/226756426-7a9d0f4a-58a5-4a08-8411-5bdbbbf45317.png)
 
 # Логин
-![image](https://user-images.githubusercontent.com/115839094/226756187-90d146e5-9993-4d19-8f70-e3cb40585021.png)
+![image](https://user-images.githubusercontent.com/115839094/226756446-ff1325b3-433d-41fe-95d9-f2c7a37b99cb.png)
 
-#Авторизация
-![image](https://user-images.githubusercontent.com/115839094/226756273-66966492-c9e1-458f-95ab-cac58d6a5011.png)
+# Авторизация
+
+![image](https://user-images.githubusercontent.com/115839094/226756473-cca3c4ec-f9b6-4f3d-9e2a-1a74ca8c2d1b.png)
 
 
